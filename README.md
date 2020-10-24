@@ -1,7 +1,7 @@
 # Radar-Rainfall-Tools
 > Outils de traitement de données de pluie-radar horaire
 
-### Lame d'eau radar COMEPHORE
+### Lame d'eau radar COMEPHORE (Météo France)
 Extraction des lames d'eau horaires pour un bassin versant.
 
 Traitement 100% python ne nécessitant pas de SIG (à part pour convertir le fichier BV dans la même projection que les images Météo-France) - Python 3.
