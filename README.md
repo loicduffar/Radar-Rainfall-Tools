@@ -4,7 +4,7 @@
 ### Lame d'eau radar COMEPHORE
 Extraction des lames d'eau horaires pour un bassin versant.
 
-Traitement 100% python ne nécessitant pas de SIG (à part pour convertir le fichier BV dans la bonne projection) - Python 3.
+Traitement 100% python ne nécessitant pas de SIG (à part pour convertir le fichier BV dans la même projection que les images Météo-France) - Python 3.
 
 Données radar Météo France : https://donneespubliques.meteofrance.fr/?fond=produit&id_produit=291&id_rubrique=34
 
