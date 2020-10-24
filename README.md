@@ -1,5 +1,5 @@
 # Radar-Rainfall-Tools
-> Outils de traitement de données de pluie-radar horaires
+> Outils de traitement de données de pluie-radar horaire
 
 ### Lame d'eau radar COMEPHORE
 
