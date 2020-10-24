@@ -2,8 +2,9 @@
 > Outils de traitement de données de pluie-radar horaire
 
 ### Lame d'eau radar COMEPHORE
-Extraction des lames d'eau horaires pour un bassin versant
-Codage 100% python (ne nécessite pas de SIG, à part pour générer le fichier BV avec la bonne projection) - Python 3
+Extraction des lames d'eau horaires pour un bassin versant.
+
+Codage 100% python (ne nécessite pas de SIG, à part pour générer le fichier BV avec la bonne projection) - Python 3.
 
 Données radar Météo France : https://donneespubliques.meteofrance.fr/?fond=produit&id_produit=291&id_rubrique=34
 
