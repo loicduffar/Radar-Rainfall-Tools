@@ -1,6 +1,7 @@
 # Radar-Rainfall-Tools
 > Outils de traitement de l'ancienne version des données payanes de pluie-radar horaire
 > OBSOLETE depuis la sortie en 2025 des images geotif horaire en open-data sur meteo.data.gouv.fr
+> Voir le code adapté au nouveau format dans le dépôt meteo.data
 
 ### Lame d'eau radar COMEPHORE (Météo France)
 Extraction des lames d'eau horaires pour un bassin versant.
